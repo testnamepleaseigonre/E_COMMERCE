@@ -1,0 +1,25 @@
+C:\Users\valde\Desktop\College\II\OOP\2\GUI\bin\Debug\GUI.exe.config
+C:\Users\valde\Desktop\College\II\OOP\2\GUI\bin\Debug\GUI.exe
+C:\Users\valde\Desktop\College\II\OOP\2\GUI\bin\Debug\GUI.pdb
+C:\Users\valde\Desktop\College\II\OOP\2\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\valde\Desktop\College\II\OOP\2\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\valde\Desktop\College\II\OOP\2\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\valde\Desktop\College\II\OOP\2\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\valde\Desktop\College\II\OOP\2\GUI\obj\Debug\GUI.exe
+C:\Users\valde\Desktop\College\II\OOP\2\GUI\obj\Debug\GUI.pdb
+C:\Users\valde\Desktop\College\II\OOP\2\GUI\obj\Debug\GUI.Form1.resources
+C:\Users\valde\Desktop\II Kursas\OOP\2\GUI\bin\Debug\GUI.exe.config
+C:\Users\valde\Desktop\II Kursas\OOP\2\GUI\bin\Debug\GUI.exe
+C:\Users\valde\Desktop\II Kursas\OOP\2\GUI\bin\Debug\GUI.pdb
+C:\Users\valde\Desktop\II Kursas\OOP\2\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\valde\Desktop\II Kursas\OOP\2\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\valde\Desktop\II Kursas\OOP\2\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\valde\Desktop\II Kursas\OOP\2\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\valde\Desktop\II Kursas\OOP\2\GUI\obj\Debug\GUI.exe
+C:\Users\valde\Desktop\II Kursas\OOP\2\GUI\obj\Debug\GUI.pdb
+C:\Users\valde\Desktop\II Kursas\OOP\2\GUI\obj\Debug\GUI.HomePage.resources
+C:\Users\valde\Desktop\II Kursas\OOP\2\GUI\obj\Debug\GUI.LoginWindow.resources
+C:\Users\valde\Desktop\II Kursas\OOP\2\GUI\obj\Debug\GUI.RegisterWindow.resources
+C:\Users\valde\Desktop\II Kursas\OOP\2\GUI\obj\Debug\GUI.UserWindow.resources
+C:\Users\valde\Desktop\II Kursas\OOP\2\GUI\obj\Debug\GUI.PasswordChangeForm.resources
+C:\Users\valde\Desktop\II Kursas\OOP\2\GUI\obj\Debug\GUI.UserManagerWindow.resources

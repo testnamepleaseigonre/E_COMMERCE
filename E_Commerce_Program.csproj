@@ -1,0 +1,300 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9615B44A-196A-44B2-849A-A2E15D39FF5D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>GUI</RootNamespace>
+    <AssemblyName>GUI</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>packages\Newtonsoft.Json.12.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AccountantWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AccountantWindow.Designer.cs">
+      <DependentUpon>AccountantWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddCategory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddCategory.Designer.cs">
+      <DependentUpon>AddCategory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddNewItemToShop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddNewItemToShop.Designer.cs">
+      <DependentUpon>AddNewItemToShop.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin.cs" />
+    <Compile Include="AllUsersData\UsersRepository.cs" />
+    <Compile Include="Backend\Models\CartItem.cs" />
+    <Compile Include="Backend\Models\Category.cs" />
+    <Compile Include="Backend\Models\Comment.cs" />
+    <Compile Include="Backend\Models\Item.cs" />
+    <Compile Include="Backend\Models\PaymentsLogItem.cs" />
+    <Compile Include="Backend\Models\Promotion.cs" />
+    <Compile Include="Backend\Models\WishList.cs" />
+    <Compile Include="Backend\Repositories\ItemsRepository.cs" />
+    <Compile Include="CartItemControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CartItemControl.Designer.cs">
+      <DependentUpon>CartItemControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CommentAdminControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CommentAdminControl.Designer.cs">
+      <DependentUpon>CommentAdminControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CommentsUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CommentsUserControl.Designer.cs">
+      <DependentUpon>CommentsUserControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ItemAdminControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ItemAdminControl.Designer.cs">
+      <DependentUpon>ItemAdminControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ItemHistoryControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ItemHistoryControl.Designer.cs">
+      <DependentUpon>ItemHistoryControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ItemInWishlistControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ItemInWishlistControl.Designer.cs">
+      <DependentUpon>ItemInWishlistControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ItemPublicControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ItemPublicControl.Designer.cs">
+      <DependentUpon>ItemPublicControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ItemUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ItemUserControl.Designer.cs">
+      <DependentUpon>ItemUserControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IUpdatable.cs" />
+    <Compile Include="LogItemAccountantControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="LogItemAccountantControl.Designer.cs">
+      <DependentUpon>LogItemAccountantControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LogWrite.cs" />
+    <Compile Include="NewCommentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewCommentForm.Designer.cs">
+      <DependentUpon>NewCommentForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PasswordChangeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PasswordChangeForm.Designer.cs">
+      <DependentUpon>PasswordChangeForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RegisterWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegisterWindow.Designer.cs">
+      <DependentUpon>RegisterWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HomePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HomePage.Designer.cs">
+      <DependentUpon>HomePage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginWindow.Designer.cs">
+      <DependentUpon>LoginWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Person.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StoreMainWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StoreMainWindow.Designer.cs">
+      <DependentUpon>StoreMainWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User.cs" />
+    <Compile Include="UserCartForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserCartForm.Designer.cs">
+      <DependentUpon>UserCartForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserManagerWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserManagerWindow.Designer.cs">
+      <DependentUpon>UserManagerWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserShoppingHistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserShoppingHistory.Designer.cs">
+      <DependentUpon>UserShoppingHistory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserWindow.Designer.cs">
+      <DependentUpon>UserWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserWishList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserWishList.Designer.cs">
+      <DependentUpon>UserWishList.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AccountantWindow.resx">
+      <DependentUpon>AccountantWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddCategory.resx">
+      <DependentUpon>AddCategory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddNewItemToShop.resx">
+      <DependentUpon>AddNewItemToShop.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CartItemControl.resx">
+      <DependentUpon>CartItemControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CommentAdminControl.resx">
+      <DependentUpon>CommentAdminControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CommentsUserControl.resx">
+      <DependentUpon>CommentsUserControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ItemAdminControl.resx">
+      <DependentUpon>ItemAdminControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ItemHistoryControl.resx">
+      <DependentUpon>ItemHistoryControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ItemInWishlistControl.resx">
+      <DependentUpon>ItemInWishlistControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ItemPublicControl.resx">
+      <DependentUpon>ItemPublicControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ItemUserControl.resx">
+      <DependentUpon>ItemUserControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LogItemAccountantControl.resx">
+      <DependentUpon>LogItemAccountantControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewCommentForm.resx">
+      <DependentUpon>NewCommentForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PasswordChangeForm.resx">
+      <DependentUpon>PasswordChangeForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegisterWindow.resx">
+      <DependentUpon>RegisterWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HomePage.resx">
+      <DependentUpon>HomePage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginWindow.resx">
+      <DependentUpon>LoginWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="StoreMainWindow.resx">
+      <DependentUpon>StoreMainWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserCartForm.resx">
+      <DependentUpon>UserCartForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserManagerWindow.resx">
+      <DependentUpon>UserManagerWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserShoppingHistory.resx">
+      <DependentUpon>UserShoppingHistory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserWindow.resx">
+      <DependentUpon>UserWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserWishList.resx">
+      <DependentUpon>UserWishList.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

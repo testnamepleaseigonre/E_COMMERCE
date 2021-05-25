@@ -1,0 +1,85 @@
+C:\Users\valde\Desktop\GUI\bin\Debug\GUI.exe.config
+C:\Users\valde\Desktop\GUI\bin\Debug\GUI.exe
+C:\Users\valde\Desktop\GUI\bin\Debug\GUI.pdb
+C:\Users\valde\Desktop\GUI\obj\Debug\E_Commerce_Program.csprojAssemblyReference.cache
+C:\Users\valde\Desktop\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\valde\Desktop\GUI\obj\Debug\E_Commerce_Program.csproj.GenerateResource.cache
+C:\Users\valde\Desktop\GUI\obj\Debug\E_Commerce_Program.csproj.CoreCompileInputs.cache
+C:\Users\valde\Desktop\GUI\obj\Debug\GUI.exe
+C:\Users\valde\Desktop\GUI\obj\Debug\GUI.pdb
+C:\Users\valde\Desktop\GUI\obj\Debug\E_COMMERCE.PasswordChangeForm.resources
+C:\Users\valde\Desktop\GUI\obj\Debug\E_COMMERCE.RegisterWindow.resources
+C:\Users\valde\Desktop\GUI\obj\Debug\E_COMMERCE.HomePage.resources
+C:\Users\valde\Desktop\GUI\obj\Debug\E_COMMERCE.LoginWindow.resources
+C:\Users\valde\Desktop\GUI\obj\Debug\E_COMMERCE.UserManagerWindow.resources
+C:\Users\valde\Desktop\GUI\obj\Debug\E_COMMERCE.UserWindow.resources
+C:\Users\valde\Desktop\E_COMMERCE\bin\Debug\GUI.exe.config
+C:\Users\valde\Desktop\E_COMMERCE\bin\Debug\GUI.exe
+C:\Users\valde\Desktop\E_COMMERCE\bin\Debug\GUI.pdb
+C:\Users\valde\Desktop\E_COMMERCE\obj\Debug\GUI.AddCategory.resources
+C:\Users\valde\Desktop\E_COMMERCE\obj\Debug\GUI.AddNewItemToShop.resources
+C:\Users\valde\Desktop\E_COMMERCE\obj\Debug\GUI.ItemAdminControl.resources
+C:\Users\valde\Desktop\E_COMMERCE\obj\Debug\GUI.ItemInWishlistControl.resources
+C:\Users\valde\Desktop\E_COMMERCE\obj\Debug\GUI.ItemPublicControl.resources
+C:\Users\valde\Desktop\E_COMMERCE\obj\Debug\GUI.ItemUserControl.resources
+C:\Users\valde\Desktop\E_COMMERCE\obj\Debug\E_COMMERCE.PasswordChangeForm.resources
+C:\Users\valde\Desktop\E_COMMERCE\obj\Debug\E_COMMERCE.RegisterWindow.resources
+C:\Users\valde\Desktop\E_COMMERCE\obj\Debug\E_COMMERCE.HomePage.resources
+C:\Users\valde\Desktop\E_COMMERCE\obj\Debug\E_COMMERCE.LoginWindow.resources
+C:\Users\valde\Desktop\E_COMMERCE\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\valde\Desktop\E_COMMERCE\obj\Debug\GUI.StoreMainWindow.resources
+C:\Users\valde\Desktop\E_COMMERCE\obj\Debug\E_COMMERCE.UserManagerWindow.resources
+C:\Users\valde\Desktop\E_COMMERCE\obj\Debug\E_COMMERCE.UserWindow.resources
+C:\Users\valde\Desktop\E_COMMERCE\obj\Debug\GUI.UserWishList.resources
+C:\Users\valde\Desktop\E_COMMERCE\obj\Debug\E_Commerce_Program.csproj.GenerateResource.cache
+C:\Users\valde\Desktop\E_COMMERCE\obj\Debug\E_Commerce_Program.csproj.CoreCompileInputs.cache
+C:\Users\valde\Desktop\E_COMMERCE\obj\Debug\GUI.exe
+C:\Users\valde\Desktop\E_COMMERCE\obj\Debug\GUI.pdb
+C:\Users\valde\Desktop\E_COMMERCE\obj\Debug\GUI.CommentsUserControl.resources
+C:\Users\valde\Desktop\E_COMMERCE\obj\Debug\GUI.CommentAdminControl.resources
+C:\Users\valde\Desktop\E_COMMERCE\obj\Debug\GUI.NewCommentForm.resources
+C:\Users\valde\Desktop\E_COMMERCE\obj\Debug\GUI.AccountantWindow.resources
+C:\Users\valde\Desktop\E_COMMERCE\obj\Debug\GUI.LogItemAccountantControl.resources
+C:\Users\valde\Desktop\E_COMMERCE\obj\Debug\GUI.UserShoppingHistory.resources
+C:\Users\valde\Desktop\E_COMMERCE\obj\Debug\GUI.ItemHistoryControl.resources
+C:\Users\valde\Desktop\E_COMMERCE\obj\Debug\GUI.UserCartForm.resources
+C:\Users\valde\Desktop\E_COMMERCE\obj\Debug\GUI.CartItemControl.resources
+C:\Users\valde\Desktop\E_COMMERCE\bin\Debug\Newtonsoft.Json.dll
+C:\Users\valde\Desktop\E_COMMERCE\bin\Debug\Newtonsoft.Json.xml
+C:\Users\valde\Desktop\E_COMMERCE\obj\Debug\E_Commerce_Program.csproj.CopyComplete
+C:\Users\valde\Desktop\E_COMMERCE\obj\Debug\E_Commerce_Program.csprojAssemblyReference.cache
+D:\KOLE\II Kursas\OOP\5\E_COMMERCE\bin\Debug\GUI.exe.config
+D:\KOLE\II Kursas\OOP\5\E_COMMERCE\bin\Debug\GUI.exe
+D:\KOLE\II Kursas\OOP\5\E_COMMERCE\bin\Debug\GUI.pdb
+D:\KOLE\II Kursas\OOP\5\E_COMMERCE\bin\Debug\Newtonsoft.Json.dll
+D:\KOLE\II Kursas\OOP\5\E_COMMERCE\bin\Debug\Newtonsoft.Json.xml
+D:\KOLE\II Kursas\OOP\5\E_COMMERCE\obj\Debug\E_Commerce_Program.csprojAssemblyReference.cache
+D:\KOLE\II Kursas\OOP\5\E_COMMERCE\obj\Debug\GUI.AccountantWindow.resources
+D:\KOLE\II Kursas\OOP\5\E_COMMERCE\obj\Debug\GUI.AddCategory.resources
+D:\KOLE\II Kursas\OOP\5\E_COMMERCE\obj\Debug\GUI.AddNewItemToShop.resources
+D:\KOLE\II Kursas\OOP\5\E_COMMERCE\obj\Debug\GUI.CartItemControl.resources
+D:\KOLE\II Kursas\OOP\5\E_COMMERCE\obj\Debug\GUI.CommentAdminControl.resources
+D:\KOLE\II Kursas\OOP\5\E_COMMERCE\obj\Debug\GUI.CommentsUserControl.resources
+D:\KOLE\II Kursas\OOP\5\E_COMMERCE\obj\Debug\GUI.ItemAdminControl.resources
+D:\KOLE\II Kursas\OOP\5\E_COMMERCE\obj\Debug\GUI.ItemHistoryControl.resources
+D:\KOLE\II Kursas\OOP\5\E_COMMERCE\obj\Debug\GUI.ItemInWishlistControl.resources
+D:\KOLE\II Kursas\OOP\5\E_COMMERCE\obj\Debug\GUI.ItemPublicControl.resources
+D:\KOLE\II Kursas\OOP\5\E_COMMERCE\obj\Debug\GUI.ItemUserControl.resources
+D:\KOLE\II Kursas\OOP\5\E_COMMERCE\obj\Debug\GUI.LogItemAccountantControl.resources
+D:\KOLE\II Kursas\OOP\5\E_COMMERCE\obj\Debug\GUI.NewCommentForm.resources
+D:\KOLE\II Kursas\OOP\5\E_COMMERCE\obj\Debug\E_COMMERCE.PasswordChangeForm.resources
+D:\KOLE\II Kursas\OOP\5\E_COMMERCE\obj\Debug\E_COMMERCE.RegisterWindow.resources
+D:\KOLE\II Kursas\OOP\5\E_COMMERCE\obj\Debug\E_COMMERCE.HomePage.resources
+D:\KOLE\II Kursas\OOP\5\E_COMMERCE\obj\Debug\E_COMMERCE.LoginWindow.resources
+D:\KOLE\II Kursas\OOP\5\E_COMMERCE\obj\Debug\GUI.Properties.Resources.resources
+D:\KOLE\II Kursas\OOP\5\E_COMMERCE\obj\Debug\GUI.StoreMainWindow.resources
+D:\KOLE\II Kursas\OOP\5\E_COMMERCE\obj\Debug\GUI.UserCartForm.resources
+D:\KOLE\II Kursas\OOP\5\E_COMMERCE\obj\Debug\E_COMMERCE.UserManagerWindow.resources
+D:\KOLE\II Kursas\OOP\5\E_COMMERCE\obj\Debug\GUI.UserShoppingHistory.resources
+D:\KOLE\II Kursas\OOP\5\E_COMMERCE\obj\Debug\E_COMMERCE.UserWindow.resources
+D:\KOLE\II Kursas\OOP\5\E_COMMERCE\obj\Debug\GUI.UserWishList.resources
+D:\KOLE\II Kursas\OOP\5\E_COMMERCE\obj\Debug\E_Commerce_Program.csproj.GenerateResource.cache
+D:\KOLE\II Kursas\OOP\5\E_COMMERCE\obj\Debug\E_Commerce_Program.csproj.CoreCompileInputs.cache
+D:\KOLE\II Kursas\OOP\5\E_COMMERCE\obj\Debug\E_Commerce_Program.csproj.CopyComplete
+D:\KOLE\II Kursas\OOP\5\E_COMMERCE\obj\Debug\GUI.exe
+D:\KOLE\II Kursas\OOP\5\E_COMMERCE\obj\Debug\GUI.pdb

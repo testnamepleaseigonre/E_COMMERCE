@@ -1,0 +1,35 @@
+Log Entry: 2021-01-07 21:05:06
+Added new comment:
+user_id: 17
+item_id: 1
+-------------------------------
+Log Entry: 2021-01-07 21:05:09
+Added new comment:
+user_id: 17
+item_id: 1
+-------------------------------
+Log Entry: 2021-01-07 21:08:40
+Added new comment:
+user_id: 17
+item_id: 1
+-------------------------------
+Log Entry: 2021-01-07 21:08:50
+Added to wihslist:
+user_id: 17
+item_id: 1
+-------------------------------
+Log Entry: 2021-01-07 21:08:53
+Added to cart:
+user_id: 17
+item_id: 1
+-------------------------------
+Log Entry: 2021-01-11 11:58:45
+Added to cart:
+user_id: 17
+item_id: 5
+-------------------------------
+Log Entry: 2021-01-11 11:58:54
+Added to cart:
+user_id: 17
+item_id: 1
+-------------------------------
